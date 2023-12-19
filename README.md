@@ -1,5 +1,7 @@
 # simple_3d_renderer
 
+Update by CS: This fork adds an update to the sample to show 3D axis and paint and rotate some objects. Only the sample is changed.
+
 (en)Japanese ver is [here](https://github.com/MasahideMori-SimpleAppli/simple_3d_renderer/blob/main/README_JA.md).  
 (ja)この解説の日本語版は[ここ](https://github.com/MasahideMori-SimpleAppli/simple_3d_renderer/blob/main/README_JA.md)にあります。
 
